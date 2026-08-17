@@ -9,6 +9,7 @@
 | [1148-article-views-i](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1873-calculate-special-bonus) |
+| [1667-fix-names-in-a-table](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1667-fix-names-in-a-table) |
 ## Math
 |  |
 | ------- |
