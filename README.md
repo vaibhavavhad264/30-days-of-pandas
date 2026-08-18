@@ -10,6 +10,7 @@
 | [1683-invalid-tweets](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1873-calculate-special-bonus) |
 | [1667-fix-names-in-a-table](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1667-fix-names-in-a-table) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Math
 |  |
 | ------- |
