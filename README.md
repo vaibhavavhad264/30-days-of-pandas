@@ -13,6 +13,7 @@
 | [1741-find-total-time-spent-by-each-employee](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [0196-delete-duplicate-emails](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/0196-delete-duplicate-emails) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [1484-group-sold-products-by-the-date](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1484-group-sold-products-by-the-date) |
 ## Math
 |  |
 | ------- |
