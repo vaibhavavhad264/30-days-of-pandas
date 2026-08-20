@@ -15,6 +15,7 @@
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [1484-group-sold-products-by-the-date](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1484-group-sold-products-by-the-date) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1517-find-users-with-valid-e-mails](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1517-find-users-with-valid-e-mails) |
 ## Math
 |  |
 | ------- |
