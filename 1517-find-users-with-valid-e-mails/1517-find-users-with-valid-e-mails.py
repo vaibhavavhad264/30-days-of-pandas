@@ -1,0 +1,7 @@
+# 20/08/2026
+import pandas as pd
+
+def valid_emails(users: pd.DataFrame) -> pd.DataFrame:
+    df = r'^[A-Za-z][A-Za-z0-9_.-]*@leetcode\.com$'
+    
+    return users[users['mail'].str.match(df)]
