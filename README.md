@@ -18,6 +18,7 @@
 | [1517-find-users-with-valid-e-mails](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/1517-find-users-with-valid-e-mails) |
 | [0183-customers-who-never-order](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/0183-customers-who-never-order) |
 | [0177-nth-highest-salary](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/vaibhavavhad264/30-days-of-pandas/tree/master/0178-rank-scores) |
 ## Math
 |  |
 | ------- |
